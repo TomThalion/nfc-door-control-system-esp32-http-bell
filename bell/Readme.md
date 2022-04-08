@@ -17,7 +17,3 @@ When ever you modyfie configurations you have to rebuild and reupload the projec
 
 You can edit all configutations in the platformio.ini. You will also find there an short documentation of what configuration changes what.
 
-The acoustic bell is using pin 4. 
-The lightsignBell is using pin 2.
-Pin 5 is used for a controll LED.
-
